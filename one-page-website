@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My orange and red Website</title>
+    <title>My orange Website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ff3700;
+            background-color: #ff9100;
             color: white;
             text-align: center;
             margin: 0;
         }
         nav {
-            background-color: #e62e00da;
+            background-color: #e66400da;
             padding: 10px;
             position: fixed;
             width: 100%;
@@ -30,13 +30,12 @@
             margin-top: 60px;
         }
         footer {
-            background-color: #e60017d3;
+            background-color: #e6c000d3;
             padding: 20px;
             position: fixed;
             bottom: 0;
             width: 100%;
-        }
-
+        
         /* Lightbox styles */
         .lightbox-modal {
             display: none;
@@ -102,7 +101,7 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <form>
-            <input type="text" placeholder="Your omar" required><br><br>
+            <input type="text" placeholder="Your samer" required><br><br>
             <input type="email" placeholder="mohamad2233@gmail.com" required><br><br>
             <textarea placeholder="welcome to my project enjoy"></textarea><br><br>
             <input type="submit" value="Send">
@@ -147,6 +146,3 @@
 
 </body>
 </html>
-Attachments area
-Preview YouTube video Facts About OrangesPreview YouTube video Facts About Oranges
-
